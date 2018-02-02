@@ -1,6 +1,6 @@
 # F3-GoogleReCaptcha
 
-###Инструкция по установке F3-reCAPTCHA для Fat Free Framework.
+#Инструкция по установке F3-reCAPTCHA для Fat Free Framework.
 
 1) На сайте <https://www.google.com/recaptcha/admin#list> зарегистрируйте новый сайт и выберете тип капчи (в нашем случае это reCAPTCHA V2, сервер localhost указывать нельзя)
 
